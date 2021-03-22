@@ -7,7 +7,7 @@ const RESOURCES = {
 "assets/assets/fonts/ProductSansItalic.ttf": "e88ec18827526928e71407a24937825a",
 "assets/assets/fonts/ProductSansRegular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
 "assets/assets/images/header_image.png": "40f43402c12861826a9ac0fee7f9d1a2",
-"assets/FontManifest.json": "56a6be909b7a2d8103740792f4ede9ff",
+"assets/FontManifest.json": "b3994bfcb831f50df8916764152895b1",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/fonts/MaterialIcons-Regular.ttf": "a37b0c01c0baf1888ca812cc0508f6e2",
 "assets/fonts/ProductSansBold.ttf": "dba0c688b8d5ee09a1e214aebd5d25e4",
@@ -40,16 +40,16 @@ const RESOURCES = {
 "assets/images/projects/omran.png": "ca5fe45e4998ba2cd53c795537419014",
 "assets/images/projects/topfood.png": "2e85bf80bf3965f6b85fb19fe1c6d3af",
 "assets/images/projects/toptaxi.png": "25fc761abc220c62a31a61a41542872f",
-"assets/NOTICES": "4763d4821dc0dd5ed9193157773e40f1",
+"assets/NOTICES": "d18e69ff0a6d3aeb024b351269114abc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "46b6fb3b1429905e3f27afbeb91492e9",
-"/": "46b6fb3b1429905e3f27afbeb91492e9",
-"main.dart.js": "bdf3220afcaf01d55332d37523b6928f",
+"index.html": "2e8986dc06261dffdfd5872d9365c20a",
+"/": "2e8986dc06261dffdfd5872d9365c20a",
+"main.dart.js": "85b8dfb01f0862dfc40e4bee7a51351d",
 "manifest.json": "01c79825fd9250c7a7e10155bf982a4f",
-"version.json": "c84d9e835dbba97b78b658659a8c46a1"
+"version.json": "62b307bfffeacd833f4010bc31015a95"
 };
 
 // The application shell files that are downloaded before a service worker can

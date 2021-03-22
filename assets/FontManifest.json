@@ -6,5 +6,13 @@
             }
         ],
         "family": "MaterialIcons"
+    },
+    {
+        "fonts": [
+            {
+                "asset": "assets/fonts/ProductSansRegular.ttf"
+            }
+        ],
+        "family": "ProductSans"
     }
 ]
