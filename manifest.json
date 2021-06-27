@@ -1,11 +1,11 @@
 {
-    "name": "Hassan Javaid",
-    "short_name": "HJ.",
+    "name": "flutter_web_portfolio",
+    "short_name": "flutter_web_portfolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Flutter Dev. | Machine Learning Engr.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
